@@ -59,7 +59,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  text-align: center;
+  text-align: left;
   background-color: #fff;
 }
 
@@ -1379,12 +1379,9 @@ pre code {
     max-width: 41.666667%;
   }
   .col-xl-6 {
-	-ms-flex: 0 0 50%;
-	flex: 0 0 50%;
-	max-width: 50%;
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-	color: #070707;
-	background-color: #B57E81;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
   }
   .col-xl-7 {
     -ms-flex: 0 0 58.333333%;
